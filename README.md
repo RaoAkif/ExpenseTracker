@@ -1,17 +1,11 @@
-To update the project packages:
+# Expense Tracker
 
-```
-npm i @testing-library/jest-dom @testing-library/react @testing-library/user-event eslint-config-airbnb eslint-plugin-react prop-types react react-dom react-router-dom react-scripts
-```
-
-# Project Name
-
-> This repository contains React Redux Template.
+> This repository contains Expense Tracker App build with ReactJS.
 
 ## Get Started
 
-- [Netlify Live](https://PROJECT_NAME-raoakif.netlify.app/)
-- [Heroku Live](https://PROJECT_NAME-raoakif.herokuapp.com/)
+- [Netlify Live](https://ExpenseTracker-raoakif.netlify.app/)
+- [Heroku Live](https://ExpenseTracker-raoakif.herokuapp.com/)
 
 # Getting Started with Create React App
 
@@ -22,13 +16,13 @@ npm i @testing-library/jest-dom @testing-library/react @testing-library/user-eve
 ### Setup
 
 ```
-git clone git@github.com:RaoAkif/PROJECT_NAME.git
+git clone git@github.com:RaoAkif/ExpenseTracker.git
 ```
 
 ### Install
 
 ```
-cd PROJECT_NAME
+cd ExpenseTracker
 ```
 
 ```
@@ -63,7 +57,7 @@ npm run build
 
 ### Deployment
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RaoAkif/PROJECT_NAME)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RaoAkif/ExpenseTracker)
 
 ## Authors
 
